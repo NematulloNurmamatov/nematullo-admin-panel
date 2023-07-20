@@ -15,9 +15,9 @@
   color: rgb(255, 0, 0);
 }
 
-.ant-table-row:hover {
-  /* background-color: burlywood !important; */
-}
+/* .ant-table-row:hover {
+  background-color: burlywood !important;
+} */
 
 .ant-layout-content {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKSh2WA31ZA3u4qq2JnmXOAUi0DybJOxNs-A&usqp=CAU) !important;
